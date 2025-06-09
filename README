@@ -14,3 +14,13 @@ Automatiza pasos para abrir, mover y colocar cámaras en posiciones específicas
 
 El flujo consiste en detectar imágenes en pantalla (por ejemplo, botones o áreas de la aplicación de cámaras) y simular movimientos y clics del mouse, de manera secuencial y automatizada.
 
+
+## Installation
+
+Installation
+
+```bash
+ pip Install pyautogui
+
+```
+    
